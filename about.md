@@ -17,7 +17,7 @@
 If you encounter any issues, please report them on the [Issues](https://github.com/noxygalaxy/level-startpos/issues) page. You can also join our **Discord** for help, discussions and to see my new mod releases <3  
 
 ## Credits
-- @noxygalaxy - owner of the mod
-- @GlowRock03 - i used his download delegate system
+- [@noxygalaxy](https://github.com/noxygalaxy) - owner of the mod
+- [@GlowRock03](https://github.com/glowrock03) - for letting me use his download delegate system <3
 
 [Discord](https://discord.gg/yvvJW2z9zB)
