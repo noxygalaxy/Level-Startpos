@@ -10,6 +10,8 @@
 
 using namespace geode::prelude;
 
+// my first time using fetching things :3
+
 struct StartposData {
     std::string levelID;
     std::string startposID;

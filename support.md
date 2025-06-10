@@ -1,1 +1,5 @@
-Edit this file to change your mod's support info, or delete it if you don't need it.
+# Support me <3
+
+https://new.donatepay.ru/@Nooxxyyy
+
+https://ko-fi.com/noxygalaxy

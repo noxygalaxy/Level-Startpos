@@ -26,6 +26,6 @@ If you encounter any issues, please report them on the [Issues](https://github.c
 
 ## Credits
 - @noxygalaxy - owner of the mod
-- @GlowRock03 - for letting me use his download delegate system <3
+- @GlowRock03 - i used his download delegate system
 
 <a href="https://discord.gg/yvvJW2z9zB"><img src="https://dcbadge.limes.pink/api/server/yvvJW2z9zB"></img></a>  
