@@ -1,0 +1,48 @@
+{
+	"geode": "4.5.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "noxygalaxy.level_startpos",
+	"name": "Level Startpos",
+	"version": "v1.0.0",
+	"developer": "noxygalaxy",
+	"description": "Find startpos versions of levels easily!",
+    "tags": ["utility", "online", "interface", "enhancement"],
+    "dependencies": {
+        "geode.node-ids": {
+            "version": ">=1.13.0",
+            "importance": "required"
+		}
+	},
+    "resources": {
+        "sprites": [
+            "resources/*.png"
+        ]
+    },
+    "settings": {
+        "json-url": {
+            "name": "JSON Data URL",
+            "description": "URL to fetch startpos data from",
+            "type": "string",
+            "default": "https://github.com/noxygalaxy/required-for-apps/raw/refs/heads/main/level-startpos-mod/levels.json"
+        },
+        "auto-refresh": {
+            "name": "Auto Refresh Data",
+            "description": "Automatically refresh JSON data periodically",
+            "type": "bool",
+            "default": true
+        },
+        "refresh-interval": {
+            "name": "Refresh Interval (minutes)",
+            "description": "How often to refresh the JSON data",
+            "type": "int",
+            "default": 30,
+            "min": 5,
+            "max": 1440
+        }
+    }
+}
