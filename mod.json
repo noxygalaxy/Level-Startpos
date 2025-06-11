@@ -11,6 +11,15 @@
 	"version": "v1.0.0",
 	"developer": "noxygalaxy",
 	"description": "Find startpos versions of levels easily!",
+	"links": {
+        "source": "https://github.com/noxygalaxy/pause-countdown",
+        "homepage": "https://noxy.netlify.app",
+        "community": "https://discord.gg/yvvJW2z9zB"
+	},
+	"issues": {
+        "info": "Send your feature requests or bug reports here.",
+        "url": "https://github.com/noxygalaxy/pause-countdown/issues"
+	},
     "tags": ["utility", "online", "interface", "enhancement"],
     "dependencies": {
         "geode.node-ids": {

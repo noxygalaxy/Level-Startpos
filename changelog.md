@@ -1,3 +1,6 @@
+# 1.0.1
+i forgot to add links to source / discord and etc.
+
 # 1.0.0
 Mod release!! <3
 
